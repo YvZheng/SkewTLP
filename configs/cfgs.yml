@@ -1,0 +1,9 @@
+Adv_params:
+  level: [200, 500, 700, 850, 1000]
+  save_dir: ./outputs/advection
+  path_input: ./data/Standard_Input/Standard_Advection_Input/20180905231500
+SkewT_params:
+  parcel_type: ML
+  save_dir: ./outputs/skewT
+  path_input: ./data/Standard_Input/Standard_skewT_Input/Standard_test.csv
+

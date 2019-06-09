@@ -1,0 +1,8 @@
+numpy
+basemap
+matplotlib
+xarray
+scipy
+pyyaml
+json
+
